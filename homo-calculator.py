@@ -7,7 +7,7 @@ PLUGIN_METADATA = {
     "author": [
         "meng_877",
     ],
-    "link": "http://tqmcraft.iecraft.com/qtm/",
+    "link": "https://github.com/meng877/homo-calculator",
 }
 
 dictnum = {
