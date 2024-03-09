@@ -1,4 +1,4 @@
-# homo-calculator
+# homo_calculator
 是一个适用
 
 [MCDReforged](https://github.com/Fallen-Breath/MCDReforged)的恶臭数字论证器，改自[@itorr](https://github.com/itorr)的[恶臭数字论证器](https://github.com/itorr/homo)
