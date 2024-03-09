@@ -9,7 +9,7 @@
 
 ## 使用方法:
 
-扔进plugins文件夹，然后重启服务器 就这么简单
+扔进plugins文件夹，然后`!!MCDR plugin reload homo_calculator`
 
 ## command:
 
