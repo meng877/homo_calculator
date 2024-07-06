@@ -2,7 +2,7 @@
     "id": "homo_calculator",
     "version": "11.45.14",
     "name": "homo_calculator",
-    "description": "homo_calculator",
+    "description": "!!homo <int> 将任何数字转化为114514四则运算的形式",
     "authors": "meng877",
     "link": "https://github.com/meng877/homo_calculator"
 }
